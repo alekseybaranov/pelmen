@@ -1,0 +1,19 @@
+{
+  "name": "pelmen",
+  "version": "0.1.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "mocha ./test/*.test.js",
+    "tests": "mocha ./tests/*.test.js"
+  },
+  "author": "Aleksey Baranov",
+  "license": "MIT",
+  "dependencies": {
+    "toml": "^3.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
